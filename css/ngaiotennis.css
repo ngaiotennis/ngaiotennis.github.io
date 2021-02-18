@@ -9,3 +9,7 @@ body {
 .table .bg-green th {
   background-color: #557700;
 }
+
+img.logo {
+  vertical-align: text-bottom;
+}
